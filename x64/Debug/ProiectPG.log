@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Savi\source\repos\ProiectPG\ProiectPG\main.cpp(146,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Savi\source\repos\ProiectPG\ProiectPG\main.cpp(146,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ProiectPG.vcxproj -> C:\Users\Savi\source\repos\ProiectPG\x64\Debug\ProiectPG.exe

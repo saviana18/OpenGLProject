@@ -1,0 +1,17 @@
+﻿  Camera.cpp
+  main.cpp
+  Mesh.cpp
+C:\Users\Savi\source\repos\ProiectPG\ProiectPG\Mesh.cpp(32,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model3D.cpp
+C:\Users\Savi\source\repos\ProiectPG\ProiectPG\Model3D.cpp(89,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLuint
+          ]
+C:\Users\Savi\source\repos\ProiectPG\ProiectPG\Model3D.cpp(97,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Shader.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: unresolved external symbol WinMain
+C:\Users\Savi\source\repos\ProiectPG\x64\Release\ProiectPG.exe : fatal error LNK1120: 1 unresolved externals
